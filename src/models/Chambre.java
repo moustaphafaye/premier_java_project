@@ -40,9 +40,9 @@ public class Chambre {
     public String toString() {
         return "Chambre [etage=" + etage + ", id=" + id + ", numero=" + numero + ", pavillon=" + pavillon + ", resp="
                 + resp + ", type=" + type + "]";
-    }
+    }  
 
-    public TypeChambre getType() {
+    public TypeChambre getType() { 
         return type;
     }
 
