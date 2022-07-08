@@ -3,6 +3,7 @@ import java.util.Scanner;
 import models.Etudiant;
 import models.Pavillon;
 import models.TypeChambre;
+import models.Boursier;
 import models.Chambre;
 
 
@@ -16,6 +17,11 @@ public class ServiceTableau implements IService{
 
     @Override
     public void ajouterEtudiant(Etudiant etudiant) {
+        
+        
+    }
+    @Override
+    public void ajouterEtudiantBoursier(Boursier boursier) {
         
         
     }

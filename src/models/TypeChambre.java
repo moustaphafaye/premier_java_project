@@ -1,5 +1,5 @@
 package models;
 
-public enum TypeChambre {
+public enum TypeChambre {   
     DOUBLE,INDIVIDUELLE
 }

@@ -8,6 +8,8 @@ public class Chambre {
     private String etage;
 
     private Pavillon pavillon;
+    
+    public Boursier bourse;
     private ResponsablePedagogique resp;
 
   
